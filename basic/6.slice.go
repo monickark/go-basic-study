@@ -32,3 +32,8 @@ func printSlice(slice []string) {
 func printSliceInt(slice []int) {
 	fmt.Printf("%v : len %d : cap %d", slice, len(slice), cap(slice))
 }
+
+/**
+PS D:\Study\Go\GoLearn\basic> go run 6.slice.go
+[1 2 3 4] : len 4 : cap 4[3 2] : len 2 : cap 4--------------------[3 2 3 4] : len 4 : cap 4[3 2 3 4] : len 4 : cap 4
+*/

@@ -23,3 +23,8 @@ func main() {
 
 	fmt.Printf("%d ", w)
 }
+
+/**
+go run 10.AnonyField.go
+{{{20 0} 0} 0}
+*/

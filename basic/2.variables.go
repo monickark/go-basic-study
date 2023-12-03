@@ -17,3 +17,8 @@ func main() {
 	fmt.Printf(" || %d %d", d, e)
 
 }
+
+/**
+go run 2.variables.go
+ | 5 | 10 | 20 || 30 40
+*/

@@ -26,3 +26,17 @@ func main() {
 		fmt.Printf("\n No of wheels : %d ", wheels)
 	}
 }
+
+/**
+go run 8.Map.go
+map[Auto:20 Bicycle:30 Car:10 Suv:10]
+map[Bicycle:30 Car:10 Suv:10]
+
+ Car, 10
+
+ Bicycle, 30
+
+ Suv, 10
+Add
+Key not found
+**/

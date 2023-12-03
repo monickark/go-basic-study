@@ -45,3 +45,9 @@ func fizzbuzzswitch(n int) string {
 	}
 	return strconv.Itoa(n)
 }
+
+/**
+PS D:\Study\Go\GoLearn\basic> go run 3.operators.go
+Enter the number : 45
+Fizzbuzz
+*/

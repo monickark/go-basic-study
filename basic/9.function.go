@@ -27,3 +27,11 @@ func sum(n ...int) int {
 	}
 	return result
 }
+
+/**
+go run 9.function.go
+18 : 1
+4
+-----------------------------
+36
+*/

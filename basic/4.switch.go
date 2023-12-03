@@ -13,3 +13,9 @@ func main() {
 		fmt.Println("Not Subscribed.....")
 	}
 }
+
+/**
+PS D:\Study\Go\GoLearn\basic> go run 4.switch.go
+Due to want to subscribe ? Y/NY
+Subscribed.....
+*/
